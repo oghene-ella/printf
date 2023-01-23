@@ -235,5 +235,5 @@ All the above options work well together.
 
 ### Authors &copy;
 
-- El Pacific Binagha,
--  Willy Pascal Willy
+- Abdusshakur Olabisi,
+-  Oghenekaro Emmanuella
